@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ml">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>കുട്ടിക്കൂട്ടം - ദ്വിദിന സഹവാസ ക്യാമ്പ്</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #f8f9fa;
+    }
+
+    .poster {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      color: #333;
+    }
+
+    h1 {
+      color: #e44d26; /* Canva's brand color */
+    }
+
+    h2 {
+      color: #20a0eb; /* Canva's brand color */
+    }
+
+    p {
+      color: #4d4d4d; /* Dark gray */
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    em {
+      font-style: normal;
+      color: #e44d26; /* Canva's brand color */
+    }
+
+    .highlight {
+      background-color: #fef0e3; /* Light orange */
+      padding: 10px;
+      border-radius: 5px;
+      margin: 15px 0;
+    }
+
+    .poster img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-top: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+
+<div class="poster">
+  <h1>GHSS ആയാപറമ്പ്</h1>
+  <h2>SSSS Unit</h2>
+  <p class="highlight">സേവനം സഹജീവനം</p>
+  <p><strong>ദ്വിദിന സഹവാസ ക്യാമ്പ്</strong></p>
+  <p>Feb 3, 4 തീയതികളിൽ</p>
+  <p>ബോധവൽക്കരണ ക്ലാസുകൾ, ശില്പ ശാലകൾ, സാമൂഹ്യ ഇടപെടലുകൾ, കൃഷിയിട സന്ദർശനം</p>
+  <p class="highlight"><em>കുട്ടിക്കൂട്ടം</em></p>
+  <img src="your-image-url.jpg" alt="Event Image">
+</div>
+
+</body>
+</html>
